@@ -114,7 +114,7 @@ img {
 
 .section__title-gradient {
   background: var(--text-gradient);
-  color: transparent;
+  /* color: transparent; */
   -webkit-background-clip: text;
   background-clip: text;
 }
@@ -613,9 +613,7 @@ img {
     justify-content: center;
   }
   .discount__img{
-    width: 200px;
-    top: 4rem;
-    right: -11rem;
+   
   }
 
   
@@ -752,7 +750,7 @@ img {
   }
   .home__img {
     width: 300px;
-    top: -15rem;
+    top: 12rem;
   }
   .home__title {
     top: -5rem;
